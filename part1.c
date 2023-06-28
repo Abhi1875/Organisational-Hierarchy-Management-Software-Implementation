@@ -58,7 +58,7 @@ void print_company(struct Employee *ceo)
     return;
 }
 
-// --------------------------------------------------- YOU CAN EDIT BELOW THIS LINE -----------------------------------
+// ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 struct Employee *CEO = NULL;
 // CEO is a global pointer that points to the CEO of the company
@@ -296,7 +296,7 @@ int TeamSize(int emp_id)
     return Team_size(emp_id, CEO);
 }
 
-// --------------------------------------------------- YOU CAN EDIT ABOVE THIS LINE -----------------------------------
+// ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 /* The following driver code creates a organisation for you and based on the input file
 it will call all the functions that are necessary, your job is to edit the functions
